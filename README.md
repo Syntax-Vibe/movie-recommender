@@ -5,34 +5,48 @@ It allows users to select movie genres and receive top-rated recommendations, en
 
 ---
 
+## 🔎 Preview
+
+![App Screenshot](movie-recommender.png)
+
+---
+
+## 🌐 Live Demo
+
+<!-- Replace this link with your real deployed link once available -->
+*Coming soon on Streamlit Cloud*
+
+---
+
 ## 🚀 Features
+
 - 🎯 Filter top movies based on selected genre
 - ⭐ Calculate and display average user ratings
 - 🌐 Show IMDb scores and provide direct links
-- 🖥️ Interactive and clean UI built with Streamlit
+- 💻 Interactive and clean UI built with Streamlit
 - 🧩 Modular and organized code structure for easy development
 
 ---
 
 ## 🧰 Tools & Libraries Used
+
 - `Python`
 - `Pandas`
 - `Streamlit`
 - `Git`
+- `scikit-learn`
 - `pytest` *(optional, for testing purposes)*
-- `IMDb API / metadata` *(for enhanced information display)*
 
 ---
 
-## 🧪 Future Enhancements (Optional)
-- Add content-based filtering using cosine similarity
-- Implement basic machine learning for personalized recommendations
-- Integrate sentiment analysis on movie descriptions
-- Display poster thumbnails using IMDb or TMDB API
+## 🧠 Recommendation Methods
+
+- **Collaborative Filtering**: Recommends movies based on similar users’ preferences  
+- **Genre-Based Filtering**: Allows selection of genres to get top-rated recommendations using cosine similarity
 
 ---
 
-## 🛠️ How to Run the Project
+## 🛠️ How to Run the Project Locally
 
 ```bash
 # Clone the repository
@@ -44,5 +58,11 @@ cd movie-recommender
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+# Run the Streamlit app
 streamlit run app/app.py
+
+
+🧑‍💻 Author
+Syntax-Vibe (Amir)
+GitHub: https://github.com/Syntax-Vibe
+
