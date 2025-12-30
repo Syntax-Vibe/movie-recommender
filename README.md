@@ -5,30 +5,30 @@ It allows users to select movie genres and receive top-rated recommendations, en
 
 ---
 
-## 🔎 Preview
+##  Preview
 
 ![App Screenshot](movie-recommender.png)
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 <!-- Replace this link with your real deployed link once available -->
 *Coming soon on Streamlit Cloud*
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎯 Filter top movies based on selected genre
-- ⭐ Calculate and display average user ratings
-- 🌐 Show IMDb scores and provide direct links
-- 💻 Interactive and clean UI built with Streamlit
-- 🧩 Modular and organized code structure for easy development
+- Filter top movies based on selected genre
+- Calculate and display average user ratings
+- Show IMDb scores and provide direct links
+- Interactive and clean UI built with Streamlit
+-  Modular and organized code structure for easy development
 
 ---
 
-## 🧰 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - `Python`
 - `Pandas`
@@ -39,14 +39,14 @@ It allows users to select movie genres and receive top-rated recommendations, en
 
 ---
 
-## 🧠 Recommendation Methods
+## Recommendation Methods
 
 - **Collaborative Filtering**: Recommends movies based on similar users’ preferences  
 - **Genre-Based Filtering**: Allows selection of genres to get top-rated recommendations using cosine similarity
 
 ---
 
-## 🛠️ How to Run the Project Locally
+##  How to Run the Project Locally
 
 ```bash
 # Clone the repository
